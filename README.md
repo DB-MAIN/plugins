@@ -1,4 +1,4 @@
 plugins
 =======
 
-Java plugins of DB-MAIN
+All Java plugins of DB-MAIN
